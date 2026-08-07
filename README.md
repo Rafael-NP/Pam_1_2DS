@@ -10,3 +10,5 @@ _Thales_: Framework Flutter (Dart);
 _Vitor_: Framework React Native (JavaScript/TypeScript);
 
 _Nicolas_: Framework .NET MAUI / Xamarin (C#).
+
+## Proposta de atividade:
